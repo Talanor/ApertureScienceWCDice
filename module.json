@@ -15,7 +15,7 @@
 	"scripts": [
 		"wcube.js"
 	],
-	"url": "https://github.com/EndlesNights/ApertureScienceWCDice",
-	"manifest": "https://raw.githubusercontent.com/EndlesNights/ApertureScienceWCDice/main/module.json",
-	"download": "https://github.com/EndlesNights/ApertureScienceWCDice/raw/main/ApertureScienceWCDice.zip"
+	"url": "https://github.com/Talanor/ApertureScienceWCDice/",
+	"manifest": "https://raw.githubusercontent.com/Talanor/ApertureScienceWCDice/main/module.json",
+	"download": "https://github.com/Talanor/ApertureScienceWCDice/archive/refs/heads/main.zip"
 }
